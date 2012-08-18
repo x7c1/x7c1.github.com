@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[ハコログ]]></title>
   <link href="http://x7c1.github.com/atom.xml" rel="self"/>
   <link href="http://x7c1.github.com/"/>
-  <updated>2012-08-18T18:47:24+09:00</updated>
+  <updated>2012-08-18T21:21:44+09:00</updated>
   <id>http://x7c1.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[haco]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[テスト投稿]]></title>
+    <link href="http://x7c1.github.com/blog/2012/08/18/test/"/>
+    <updated>2012-08-18T20:57:00+09:00</updated>
+    <id>http://x7c1.github.com/blog/2012/08/18/test</id>
+    <content type="html"><![CDATA[<p>ほげほげ</p>
+
+<p>ふがふが</p>
+
+<p>移植作業中</p>
+
+<p>タイトルの文字が大きすぎる感が否めない</p>
+]]></content>
+  </entry>
   
 </feed>
